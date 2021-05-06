@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1614868842 source:c:\users\emanuel d.o.a\desktop\tad1_felicia\aluno.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"escola.h"
+	"aluno.h"
+
+1614578270 c:\users\emanuel d.o.a\desktop\tad1_felicia\escola.h
+
+1614578346 c:\users\emanuel d.o.a\desktop\tad1_felicia\aluno.h
+
+1614868378 source:c:\users\emanuel d.o.a\desktop\tad1_felicia\escola.c
+	<stdio.h>
+	<stdlib.h>
+	"escola.h"
+
+1615174025 source:c:\users\emanuel d.o.a\desktop\tad1_felicia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"escola.h"
+	"aluno.h"
+
+1614868844 source:c:\users\felicia\documents\tad1_feliciafinalfinal\aluno.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"escola.h"
+	"aluno.h"
+
+1614578272 c:\users\felicia\documents\tad1_feliciafinalfinal\escola.h
+
+1614578348 c:\users\felicia\documents\tad1_feliciafinalfinal\aluno.h
+
+1614868380 source:c:\users\felicia\documents\tad1_feliciafinalfinal\escola.c
+	<stdio.h>
+	<stdlib.h>
+	"escola.h"
+
+1615174026 source:c:\users\felicia\documents\tad1_feliciafinalfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"escola.h"
+	"aluno.h"
+
